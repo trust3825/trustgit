@@ -1,0 +1,2 @@
+# trustgit
+Trusting git
